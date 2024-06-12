@@ -95,13 +95,11 @@ v = nanmin( NaN, 3.14 );
 // returns 3.14
 ```
 
-
-If both argument are `NaN`, the function returns `NaN`.
+If both arguments are `NaN`, the function returns `NaN`.
 
 ```javascript
 var v = nanmin( NaN, NaN );
 // returns NaN
-
 ```
 
 </section>
@@ -113,6 +111,17 @@ var v = nanmin( NaN, NaN );
 <section class="notes">
 
 </section>
+
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -182,6 +191,10 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-nanmin/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-nanmin/main/LICENSE
+
+<!-- <related-links> -->
+
+<!-- </related-links> -->
 
 </section>
 
