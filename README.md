@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmin@esm/index.mjs';
+import nanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmin@v0.0.1-esm/index.mjs';
 ```
 
 #### nanmin( x, y )
