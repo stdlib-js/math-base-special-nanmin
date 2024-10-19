@@ -2,6 +2,51 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-10-19)
+
+<section class="features">
+
+### Features
+
+-   [`04b72af`](https://github.com/stdlib-js/stdlib/commit/04b72af273ca022bd8295379edc5ff04a03d23e7) - add C implementation for `math/base/special/nanmin` [(#3004)](https://github.com/stdlib-js/stdlib/pull/3004)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`04b72af`](https://github.com/stdlib-js/stdlib/commit/04b72af273ca022bd8295379edc5ff04a03d23e7) - **feat:** add C implementation for `math/base/special/nanmin` [(#3004)](https://github.com/stdlib-js/stdlib/pull/3004) _(by Gunj Joshi, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.2">
 
 ## 0.0.2 (2024-07-28)
