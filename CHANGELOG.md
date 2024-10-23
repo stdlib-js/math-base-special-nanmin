@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-20)
+## Unreleased (2024-10-23)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`dce31cc`](https://github.com/stdlib-js/stdlib/commit/dce31cca0315ae50904c7fc34a95bb427bd03192) - **docs:** fix function name in examples [(#3032)](https://github.com/stdlib-js/stdlib/pull/3032) _(by Gunj Joshi)_
 -   [`a2823da`](https://github.com/stdlib-js/stdlib/commit/a2823daab06f206a71291e6415a1cf09b5d01528) - **chore:** update package meta data [(#3019)](https://github.com/stdlib-js/stdlib/pull/3019) _(by stdlib-bot, Athan Reines)_
 -   [`04b72af`](https://github.com/stdlib-js/stdlib/commit/04b72af273ca022bd8295379edc5ff04a03d23e7) - **feat:** add C implementation for `math/base/special/nanmin` [(#3004)](https://github.com/stdlib-js/stdlib/pull/3004) _(by Gunj Joshi, Athan Reines)_
 
