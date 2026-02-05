@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import nanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmin@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-nanmin/tags). For example,
+
+```javascript
 import nanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmin@v0.1.1-deno/mod.js';
 ```
 
@@ -105,7 +110,7 @@ var v = nanmin( NaN, NaN );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import nanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmin@v0.1.1-deno/mod.js';
+import nanmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-nanmin@deno/mod.js';
 
 var m = nanmin( 3.0, 4.0 );
 console.log( m );
